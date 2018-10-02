@@ -1,6 +1,6 @@
 # Ball_and_Paddle
 My first project.
-Game where player must eliminate all bricks by reflecting the ball of off a paddle. 
+Game where player must eliminate all bricks by reflecting the ball off of a paddle. 
 Created with JavaFX for frontend and java for backend. 
 Learned how to use AnimationTimer. 
 
